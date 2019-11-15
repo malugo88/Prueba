@@ -1,0 +1,14 @@
+Ingresar a la URL  https://www.choucairtesting.com/
+Ingresar en la opción Empleos
+Validar que en la opción Empleos se muestran las opciones ¿Qué es ser Choucair?, Convocatorias, Prepararse para aplicar
+Seleccionar la opción ¿Qué es ser Choucair?
+Validar que el sistema muestre la información de ¿Qué es ser Choucair?
+Seleccionar la opción Prepararse para aplicar
+Seleccionar la opción Convocatorias
+Validar que el sistema muestre información de las convocatorias que realiza la compañía y permita visualizar en esta opción el video que se encuentra atado a youtube
+Validar que exista una sección donde se muestran los empleos disponibles 
+Validar que en la sección de empleos disponibles la página permite buscar las ofertas de empleo por el cargo o por la ciudad 
+Ingresar el nombre de uno de los cargos en el campo Palabras Claves y Ciudad y seleccionar el botón Buscar Trabajos
+Validar que se listen los empleos disponibles
+Seleccionar la oferta de empleo Analista de Pruebas Bogotá
+Validar que la página muestre los datos del cargo Analista de Pruebas Bogotá
